@@ -2,3 +2,5 @@
 
 hostname
 date
+
+date -I
